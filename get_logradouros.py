@@ -11,7 +11,7 @@ def get_logradouro():
     inicio = 1
     qtregistros = 99
     mais_paginas = True
-    token_entidade = "236dc420-6dec-4859-a83a-24bef725487e"
+    token_entidade = "xxxxxx"
     conta_registros = 0 
     lote = 0
     #Parametros da requisição
